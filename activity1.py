@@ -4,7 +4,7 @@
 
 
 
-shopping_file = open("Shopping.txt""w")
+shopping_file = open("Shopping.txt","w")
 
 shopping_file.write("Shopping List\n")
 shopping_file.write("1. Milk\n")
